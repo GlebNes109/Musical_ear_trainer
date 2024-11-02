@@ -1,1 +1,1 @@
-# -
+# ИВР "Musical ear trainer"
